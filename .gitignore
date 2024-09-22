@@ -31,3 +31,5 @@
 *.out
 *.app
 cowparty
+.vscode/launch.json
+.vscode/tasks.json
